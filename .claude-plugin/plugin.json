@@ -6,5 +6,6 @@
   },
   "homepage": "https://devot.online",
   "repository": "https://github.com/jma49/devot-plugin",
-  "license": "FSL-1.1-MIT"
+  "license": "FSL-1.1-MIT",
+  "privacyPolicyUrl": "https://devot.online/mcp-privacy"
 }

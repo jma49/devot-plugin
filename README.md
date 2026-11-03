@@ -24,6 +24,10 @@ In Claude, open Customize > Plugins > Add marketplace and enter `jma49/devot-plu
 
 `list_notebooks`, `search_notes`, `read_note`, `list_tags`, `create_note`, `update_note`, `trash_note`, `create_notebook`. They reach only live notes in notebooks that allow AI access; a notebook made by `create_notebook` allows it on that Mac. Trashed notes can be restored in Devot; nothing is deleted for good. Settings > Integrations can limit the tools to reading.
 
+## Privacy Policy
+
+The plugin and the server it runs make no network requests and send nothing to Devot. What a tool returns goes to the client that asked, which normally sends it to its AI model. Devot's notes stay on your Mac and, if you use Devot sync, encrypted on the sync service you chose. Full policy: https://devot.online/mcp-privacy. Questions: privacy@devot.online.
+
 ## Licence
 
 FSL-1.1-MIT, the same as Devot. See `LICENSE`.
