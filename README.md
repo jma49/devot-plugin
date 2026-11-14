@@ -22,7 +22,7 @@ In Claude, open Customize > Plugins > Add marketplace and enter `jma49/devot-plu
 
 ## Tools
 
-`list_notebooks`, `search_notes`, `read_note`, `list_tags`, `create_note`, `update_note`, `trash_note`, `create_notebook`. They reach only live notes in notebooks that allow AI access; a notebook made by `create_notebook` allows it on that Mac. Trashed notes can be restored in Devot; nothing is deleted for good. Settings > Integrations can limit the tools to reading.
+`list_notebooks`, `search_notes`, `read_note`, `list_tags`, `create_note`, `update_note`, `append_to_note`, `trash_note`, `create_notebook`. They reach only live notes in notebooks that allow AI access; a notebook made by `create_notebook` allows it on that Mac. Trashed notes can be restored in Devot; nothing is deleted for good. Settings > Integrations can limit the tools to reading.
 
 ## Privacy Policy
 
